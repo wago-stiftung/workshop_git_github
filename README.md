@@ -16,3 +16,18 @@ Github ist eine Plattform zur Verwaltung von Git-Repositories. Repositories bis 
 
 ### Github Desktop
 Grafische Oberfläche für Git, welche für die Nutzung mit Github optimiert ist.
+
+
+## Hands-on
+Es wird eine Python-Bibliothek implementiert, welche die mathematischen Funktionen 
+- Addieren -> add(zahl1, zahl2),
+- Subtrahieren -> sub(zahl1, zahl2),
+- Multiplizieren -> mul(zahl1, zahl2) und
+- Dividieren -> div(zahl1, zahl2) 
+zur Verfügung stellt.  
+
+### Vorbereitung auf Github
+1. (kostenlosen Account anlegen)
+2. neues Repository (python-math) erstellen --> Readme.md
+3. README.md online bearbeiten
+4. Issues erstellen
